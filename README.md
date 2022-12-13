@@ -16,7 +16,7 @@ git clone https://github.com/atila-rocha/trabalho5ldp.git
 Após baixar o repositório, abra o terminal e digite o seguinte comando:
 ```
 cd trabalho5ldp
-gcc TR5_538715.c -o heap
+gcc TR5_538715.c main.c -o heap
 ```
 - Em seguida, o código será compilado. Para iniciar, digite o seguinte comando:
 - `./heap`
